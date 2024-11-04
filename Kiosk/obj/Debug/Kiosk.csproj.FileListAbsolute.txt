@@ -1,0 +1,7 @@
+C:\Programming\.vs\Programming\v17\lab2\KioskSQL\Kiosk\Kiosk\bin\Debug\Kiosk.exe.config
+C:\Programming\.vs\Programming\v17\lab2\KioskSQL\Kiosk\Kiosk\bin\Debug\Kiosk.exe
+C:\Programming\.vs\Programming\v17\lab2\KioskSQL\Kiosk\Kiosk\bin\Debug\Kiosk.pdb
+C:\Programming\.vs\Programming\v17\lab2\KioskSQL\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.AssemblyReference.cache
+C:\Programming\.vs\Programming\v17\lab2\KioskSQL\Kiosk\Kiosk\obj\Debug\Kiosk.csproj.CoreCompileInputs.cache
+C:\Programming\.vs\Programming\v17\lab2\KioskSQL\Kiosk\Kiosk\obj\Debug\Kiosk.exe
+C:\Programming\.vs\Programming\v17\lab2\KioskSQL\Kiosk\Kiosk\obj\Debug\Kiosk.pdb
